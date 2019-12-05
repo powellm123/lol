@@ -1,2 +1,2 @@
 # lol
-a command line to tell you a joke
+a command line command that tells you a joke
